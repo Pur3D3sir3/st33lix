@@ -5,6 +5,10 @@
 </template>
 
 <style lang="scss">
+html, body, #app {
+    height: 100%;
+}
+
 body {
     background-color: $black;
 }
@@ -13,7 +17,7 @@ body {
     font-family: Poppins, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #2C3E50;
+    color: $white;
 }
 
 </style>
