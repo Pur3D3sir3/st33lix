@@ -2,6 +2,8 @@
 
 Code by MasihTak
 
+I worked for him on this project, but he never paid me!
+
 ## Run locally
 
 ### Compiles and hot-reloads for development
