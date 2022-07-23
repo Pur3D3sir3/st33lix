@@ -1,0 +1,26 @@
+/* --------------------------
+  Variables
+--------------------------- */
+
+// Text
+$base__font-size: 16px;
+
+// Descriptive Base Colors
+$white: #FFF;
+$black: #19191A;
+$red: #DB0000;
+$green: #1AA053;
+$shark: #202022;
+
+// color Usage
+$color-primary: $red;
+
+
+// Breakpoints
+$breakpoints: (
+  'xm': 320px,
+  'sm': 576px,
+  'med': 768px,
+  'lg': 992px,
+  'xl': 1200px,
+);
