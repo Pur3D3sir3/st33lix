@@ -1,8 +1,4 @@
-# st33lix
 
-Code by MasihTak
-
-I worked for him on this project, but he never paid me!
 
 ## Run locally
 
